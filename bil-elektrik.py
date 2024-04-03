@@ -1,4 +1,4 @@
-#Atur cara bagi mengjira bayaran bil elektrik
+#Atur cara bagi mengira bayaran bil elektrik
 
 #Pegisytiharan pemboleh ubah dan pemalar
 kadar1=0.218
